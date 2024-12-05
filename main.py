@@ -1,6 +1,0 @@
-print("Hello Word")
-print("Primeira modificação")
-print("Segunda Modificação")
-print("Quarta modificação")
-print("quinta modi")
-print("Sexta MOdificação")
